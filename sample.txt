@@ -1,4 +1,0 @@
-LanceDB
-A wrapper for an open-source database for vector-search with persistent storage. It simplifies retrieval, filtering, and management of embeddings.
-LangChain is a framework designed for building applications with large language models (LLMs) by chaining together various components. It supports a range of functionalities including memory, agents, and chat models, enabling developers to create context-aware applications.
-LangChain streamlines these stages (in figure above) by providing pre-built components and tools for integration, memory management, and deployment, allowing developers to focus on application logic rather than underlying complexities.
